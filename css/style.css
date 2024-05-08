@@ -1,0 +1,105 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+    height: 84px;
+    
+    
+    
+}
+header {
+    background-color: white;
+    width: 1513px;
+    height: 84px;
+    z-index: 600;
+    position: fixed;
+}
+.heder {
+    font-family: roboto;
+    display: flex;
+    justify-content: space-between;
+    width: 554px;
+    color: #636060;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 99px;
+    vertical-align: middle;
+}
+.icon {
+    margin-left: 99px;
+    vertical-align: middle;
+}
+h2 {
+    margin-top: 14px;
+}
+.landscape {
+    width: 1513px;
+    margin-bottom: 84px;
+    margin-top: 84px;
+
+}
+
+h2 {
+    font-family: roboto;
+    color: #636060;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 9px;
+}
+h3 {
+    font-family: roboto;
+    color: #010101;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 37px;
+}
+h4 {
+    font-family: roboto;
+    color: #636060;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 235px;
+}
+.sekcia {
+    display: flex;
+    justify-content: space-between;
+    width: 1242px;
+    margin: 0 auto;
+}
+.div-1 {
+    display: flex;
+    justify-content: space-between;
+    width: 924px;
+}
+h5 {
+    color: #343232;
+    font-family: roboto;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 9px;
+}
+.foto1 {
+    margin-bottom: 23px;
+}
+
+.seqcia {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 133px;
+    margin-top: 56px;
+    margin-bottom: 140px;
+
+}
+.potoebi {
+    margin-left: 33px;
+}
